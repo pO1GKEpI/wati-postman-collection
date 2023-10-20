@@ -252,7 +252,7 @@
 			"request": {
 				"auth": {
 					"type": "bearer",
-					"bearer": [
+			"bearer": [
 						{
 							"key": "token",
 							"value": "{{token}}",
